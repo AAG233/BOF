@@ -1,4 +1,4 @@
-# Laboratorios de Explotación de Vulnerabilidades
+# Laboratorios basado en el libro: El arte de la explotación de vulnerabilidades en sistemas modernos
 
 [![Licencia](https://img.shields.io/badge/Licencia-Academic%20Free-blue)](LICENSE)
 [![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20%7C%20Windows-lightgrey)]()
@@ -13,7 +13,7 @@
 
 ## 📚 Descripción
 
-Este repositorio contiene los **laboratorios prácticos** que acompañan al libro.  
+Este repositorio contiene los **laboratorios prácticos** que acompañan al libro: El arte de la explotación de vulnerabilidades en sistemas modernos.  
 A través de ejercicios guiados, el estudiante aprenderá a:
 
 - Identificar y explotar vulnerabilidades de **desbordamiento de búfer** (stack-based).
