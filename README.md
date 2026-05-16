@@ -1,4 +1,7 @@
-# Laboratorios basado en el libro: El arte de la explotación de vulnerabilidades en sistemas modernos
+## 📊 Laboratorios basado en el libro: El arte de la explotación de vulnerabilidades en sistemas modernos
+
+<img width="1536" height="1024" alt="Designer0" src="https://github.com/user-attachments/assets/a24edfdd-8c60-4fa4-b595-f2247df44282" />
+
 
 > **Libro técnico especializado** que analiza la explotación de vulnerabilidades en sistemas Linux y Windows bajo arquitecturas x86 y x64.  
 > Expone principios de memoria, ingeniería inversa y depuración para comprender el comportamiento de software vulnerable.  
@@ -27,7 +30,7 @@ A través de ejercicios guiados, el estudiante aprenderá a:
 |------------------|-------------|
 | `BOF_x32` | Prácticas relacionadas a la explotación de vulnerabilidades el Linux x86|
 | `BOF_x64` | Prácticas relacionadas a la explotación de vulnerabilidades el Linux x64 |
-| `BOF_x32_Windows`, `exploit2.py`, `exploit2_dinamico.py` | Prácticas relacionadas a la explotación de vulnerabilidades el Windows x86 |
+| `BOF_x32_Windows` | Prácticas relacionadas a la explotación de vulnerabilidades el Windows x86 |
 | `BOF_x64_Windows` | Prácticas relacionadas a la explotación de vulnerabilidades el Windows x64 |
 
 
