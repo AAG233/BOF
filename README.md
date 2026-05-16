@@ -1,6 +1,6 @@
 # Laboratorios basado en el libro: El arte de la explotación de vulnerabilidades en sistemas modernos
 
-[![Licencia](https://img.shields.io/badge/Licencia-Academic%20Free-blue)](LICENSE)
+[![Licencia](https://img.shields.io/badge/Licencia-Academic%20Free-blue)]()
 [![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20%7C%20Windows-lightgrey)]()
 [![Arquitecturas](https://img.shields.io/badge/Arquitecturas-x86%20%7C%20x64-red)]()
 
@@ -27,17 +27,13 @@ A través de ejercicios guiados, el estudiante aprenderá a:
 
 ## 📂 Estructura del Repositorio
 
-| Archivo / Carpeta | Descripción |
+| Carpeta | Descripción |
 |------------------|-------------|
-| `p5.c`, `p6.c`, `p7.c` | Programas vulnerables en Linux (x86/x64) para explotación local/remota. |
-| `s1.c` | Servidor TCP vulnerable en Linux x64 (palíndromo con buffer overflow). |
-| `exploit.py`, `exploit2.py`, `exploit2_dinamico.py` | Scripts de explotación (ROP + shellcode) para los binarios vulnerables. |
-| `P1_64bits.cpp` | Servidor Windows x64 con vulnerabilidad y llamada a `VirtualProtect`. |
-| `AnalisisVirtualProtect.cpp` | Demostración de cambio de permisos en memoria (Windows). |
-| `Get_Env.c` | Utilidad para obtener direcciones de variables de entorno (útil para explotación). |
-| `entrada.txt` (generado) | Archivo de entrada con payload para explotación local. |
+| `BOF_x32` | Prácticas relacionadas a la explotación de vulnerabilidades el Linux x86|
+| `BOF_x64` | Prácticas relacionadas a la explotación de vulnerabilidades el Linux x64 |
+| `BOF_x32_Windows`, `exploit2.py`, `exploit2_dinamico.py` | Prácticas relacionadas a la explotación de vulnerabilidades el Windows x86 |
+| `BOF_x64_Windows` | Prácticas relacionadas a la explotación de vulnerabilidades el Windows x64 |
 
-> **Nota:** Los nombres de los archivos (`p5.c`, `p6.c`, etc.) corresponden a ejercicios progresivos en el libro.
 
 ---
 
