@@ -20,7 +20,6 @@ A través de ejercicios guiados, el estudiante aprenderá a:
 - Generar y depurar **shellcode** para Linux y Windows.
 - Entender el impacto de mecanismos de protección como **ASLR**, **DEP** y **Stack Canaries**.
 - Aplicar técnicas de **ingeniería inversa** y depuración con `gdb`, `objdump`, `windbg` y `VirtualProtect`.
-- Desarrollar un enfoque **ético y profesional** en seguridad ofensiva.
 
 ---
 
