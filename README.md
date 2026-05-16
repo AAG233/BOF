@@ -1,10 +1,6 @@
 # Laboratorios basado en el libro: El arte de la explotación de vulnerabilidades en sistemas modernos
 
-[![Licencia](https://img.shields.io/badge/Licencia-Academic%20Free-blue)]()
-[![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20%7C%20Windows-lightgrey)]()
-[![Arquitecturas](https://img.shields.io/badge/Arquitecturas-x86%20%7C%20x64-red)]()
-
-> **Obra técnica especializada** que analiza la explotación de vulnerabilidades en sistemas Linux y Windows bajo arquitecturas x86 y x64.  
+> **Libro técnico especializado** que analiza la explotación de vulnerabilidades en sistemas Linux y Windows bajo arquitecturas x86 y x64.  
 > Expone principios de memoria, ingeniería inversa y depuración para comprender el comportamiento de software vulnerable.  
 > Examina mecanismos modernos de protección y su interacción con técnicas de análisis y evaluación de seguridad.  
 > Concluye resaltando el carácter formativo, analítico y ético del estudio profesional de la ciberseguridad.
