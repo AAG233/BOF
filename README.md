@@ -41,11 +41,9 @@ A través de ejercicios guiados, el estudiante aprenderá a:
 
 ---
 
-## 🛠️ Requisitos Previos
-
-### Para Linux (Debian/Ubuntu)
-```bash
-sudo apt update
-sudo apt install gcc gdb make netcat nasm
-sudo sysctl -w kernel.randomize_va_space=0   # Desactivar ASLR (solo para laboratorio)
+## 🛠️ Herramientas adicionales | Windows
+-MinGW Version 9.1.0
+-MinGW Version 16.1.0
+-x64dbg
+Liga de descarga: https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing
 
