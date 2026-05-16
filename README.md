@@ -42,8 +42,9 @@ A través de ejercicios guiados, el estudiante aprenderá a:
 ---
 
 ## 🛠️ Herramientas adicionales | Windows
--MinGW Version 9.1.0
--MinGW Version 16.1.0
--x64dbg
+- MinGW Version 9.1.0
+- MinGW Version 16.1.0
+- x64dbg
+
 Liga de descarga: https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing
 
