@@ -35,6 +35,25 @@ A través de ejercicios guiados, el estudiante aprenderá a:
 
 ---
 
+## 🖥️ Descarga de máquinas virtuales
+
+Las siguientes máquinas virtuales están configuradas con los entornos necesarios para seguir los laboratorios del libro.
+
+| Archivo | Sistema operativo |
+|---------|-------------------|
+| `Debian 12.5 x86 - BOF - ExploitLab.ova` | Debian 12.5 (32 bits) |
+| `Debian 12.6 x86_64 - BOF - ExploitLab.ova` | Debian 12.6 (64 bits) |
+
+**Credenciales de acceso** (para ambas máquinas):
+
+- Usuario `debian` → contraseña: `BOFdebian!1987`
+- Usuario `root` → contraseña: `BOFroot!1987`
+
+> Las imágenes están disponibles para descarga en el mismo enlace de Google Drive:  
+> [https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing](https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing)
+
+---
+
 ## 🛠️ Herramientas adicionales | Windows
 - MinGW Version 9.1.0
 - MinGW Version 16.1.0
