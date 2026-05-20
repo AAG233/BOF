@@ -50,7 +50,7 @@ Las siguientes máquinas virtuales están configuradas con los entornos necesari
 - Usuario `root` → contraseña: `BOFroot!1987`
 
 > Las imágenes están disponibles para descarga en el mismo enlace de Google Drive:  
-> [https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing](https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing)
+> [https://drive.google.com/drive/folders/14tSJVQOLlDGACR72DRYjndpEYgH2AoRI?usp=sharing](https://drive.google.com/drive/folders/14tSJVQOLlDGACR72DRYjndpEYgH2AoRI?usp=sharing)
 
 ---
 
