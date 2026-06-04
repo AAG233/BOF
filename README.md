@@ -2,6 +2,8 @@
 
 <img width="1536" height="1024" alt="Designer0" src="https://github.com/user-attachments/assets/a24edfdd-8c60-4fa4-b595-f2247df44282" />
 
+> Link:  
+> [https://hotmart.com/es/marketplace/productos/el-arte-de-la-explotacion-de-vulnerabilidades-en-sistemas-modernos/K105948688E](https://hotmart.com/es/marketplace/productos/el-arte-de-la-explotacion-de-vulnerabilidades-en-sistemas-modernos/K105948688E)
 
 > **Libro técnico especializado** que analiza la explotación de vulnerabilidades en sistemas Linux y Windows bajo arquitecturas x86 y x64.  
 > Expone principios de memoria, ingeniería inversa y depuración para comprender el comportamiento de software vulnerable.  
