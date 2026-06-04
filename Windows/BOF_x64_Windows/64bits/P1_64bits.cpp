@@ -18,7 +18,7 @@ void Instrucciones_Ensamblador() {
 }
 
 void FUNCION_0(){
-	printf("EXCELENTE: Has logrado ejecutar FUNCIÓN_0\n");
+	printf("EXCELENTE: Has logrado ejecutar FUNCION_0\n");
 	return;
 }
 
