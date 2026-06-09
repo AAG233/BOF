@@ -70,8 +70,8 @@ Las siguientes máquinas virtuales están configuradas con los entornos necesari
 
 ## 🛠️ Herramientas adicionales | Windows
 - MinGW Version 9.1.0
-- MinGW Version 16.1.0
+- [MinGW Version 16.1.0] (https://winlibs.com/)
 - x64dbg
 
-Liga de descarga: https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing
+Liga de descarga completa: https://drive.google.com/drive/folders/1qeGbGQkcnxoEYwSBEKCDMCQb5gpM093c?usp=sharing
 
