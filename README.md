@@ -2,8 +2,18 @@
 
 <img width="1536" height="1024" alt="Designer0" src="https://github.com/user-attachments/assets/a24edfdd-8c60-4fa4-b595-f2247df44282" />
 
-> Link:  
-> [https://hotmart.com/es/marketplace/productos/el-arte-de-la-explotacion-de-vulnerabilidades-en-sistemas-modernos/K105948688E](https://hotmart.com/es/marketplace/productos/el-arte-de-la-explotacion-de-vulnerabilidades-en-sistemas-modernos/K105948688E)
+## 🛒 Adquiere el libro
+
+Puedes conseguir tu copia en las siguientes modalidades:
+
+### 📖 Libro Físico  
+[![Amazon](https://img.shields.io/badge/Amazon-Compra%20el%20libro%20físico-orange?logo=amazon&logoColor=white)](https://www.amazon.com/dp/6072988741)  
+Copia impresa disponible en Amazon.
+
+### 💻 Libro Digital (PDF/EPUB)  
+[![Hotmart](https://img.shields.io/badge/Hotmart-Compra%20el%20libro%20digital-blue?logo=hotmart&logoColor=white)](https://hotmart.com/es/marketplace/productos/el-arte-de-la-explotacion-de-vulnerabilidades-en-sistemas-modernos/K105948688E)  
+Adquiere la versión digital al instante en Hotmart.
+
 
 > **Libro técnico especializado** que analiza la explotación de vulnerabilidades en sistemas Linux y Windows bajo arquitecturas x86 y x64.  
 > Expone principios de memoria, ingeniería inversa y depuración para comprender el comportamiento de software vulnerable.  
